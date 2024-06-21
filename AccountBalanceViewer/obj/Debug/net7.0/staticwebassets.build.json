@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hnWl+Svh6ozD5q9US8WOP0narjAAcmOSh5o0LHXIJWs=",
+  "Source": "AccountBalanceViewer",
+  "BasePath": "_content/AccountBalanceViewer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
